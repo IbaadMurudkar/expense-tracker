@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../models/database_provider.dart';
-import './total_chart.dart';
+import 'total_expense.dart';
 import './category_list.dart';
 import '../../screens/all_expenses.dart';
 

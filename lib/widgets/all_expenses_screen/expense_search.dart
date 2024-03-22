@@ -92,7 +92,6 @@ class _ExpenseSearchState extends State<ExpenseSearch> {
   }
 
   void _sortExpenses(DatabaseProvider provider) async {
-    // Sort expenses by date
     await provider.sortExpensesByDate(ascending: _isAscending);
   }
 }
