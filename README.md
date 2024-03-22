@@ -4,7 +4,7 @@
 
 ## Setup Instructions
 
-Follow these steps to set up and run the Expense Tracker App on your local machine:
+Follow these steps to set up and run the Expense Tracker App on your local machine
 
 ## Prerequisites
 
