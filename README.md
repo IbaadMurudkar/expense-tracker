@@ -1,5 +1,6 @@
-# Expense Tracker
+![MergedImages](https://github.com/IbaadMurudkar/expense-tracker/assets/108740762/dbb9bb21-fc0f-43f1-8e44-220ffcf289d5)
 
+# Expense Tracker
 Personal Expense Tracker mobile application using Flutter
 
 ## Prerequisites
