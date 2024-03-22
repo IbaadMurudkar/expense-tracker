@@ -6,7 +6,7 @@
 
 Follow these steps to set up and run the Expense Tracker App on your local machine
 
-## Prerequisites
+# Prerequisites
 
 Make sure you have Flutter installed on your machine.
 Ensure that you have a compatible IDE installed, such as Android Studio or Visual Studio Code.
